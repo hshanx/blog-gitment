@@ -7,3 +7,4 @@
 + [使用Certbot升级Http到Https](https://github.com/mrmeisen/blog-gitment/issues/11)
 + [谈谈String的compareTo方法](https://github.com/xebcxc/blog-gitment/issues/13)
 + [图解HTTP之HTTP首部](https://github.com/xebcxc/blog-gitment/issues/16)
++ [图解HTTP之HTTP通用首部](https://github.com/xebcxc/blog-gitment/issues/17)
