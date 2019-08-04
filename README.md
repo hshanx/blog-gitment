@@ -1,4 +1,8 @@
 # 文章归档
+## 2019
++ [explain详细属性备忘](https://github.com/xebcxc/blog-gitment/issues/29) 
++ [MySQL常用语句备忘](https://github.com/xebcxc/blog-gitment/issues/28) 
+
 
 ## 2018
 
