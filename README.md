@@ -1,4 +1,10 @@
 # 文章归档
+## 2020
++ [垃圾收集算法](https://github.com/hshanx/blog-gitment/issues/45)
++ [引用计数法和可达性分析算法](https://github.com/hshanx/blog-gitment/issues/44)
++ [详细讲一下Java中的锁](https://github.com/hshanx/blog-gitment/issues/43)
++ [Java虚拟机运行时数据区](https://github.com/hshanx/blog-gitment/issues/42)
+
 ## 2019
 + [算法菜单之复杂度分析](https://github.com/xebcxc/blog-gitment/issues/32)
 + [漫游Java源码之String记](https://github.com/xebcxc/blog-gitment/issues/30)
